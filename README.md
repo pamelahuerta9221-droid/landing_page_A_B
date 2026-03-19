@@ -1,4 +1,4 @@
-#Validando hipótesis de negocio con pruebas estadísticas
+# Validando hipótesis de negocio con pruebas estadísticas
 
 Se ejecutó un experimento A/B en la página de inicio (landing page), comparando dos versiones (A y B) con el objetivo de mejorar la tasa de conversión y el valor económico por usuario.
 
@@ -26,6 +26,9 @@ Interpretación:
 Los resultados presentados indican que la página B tiene un gasto promedio superior al de la página A (7.66 unidades). Esto sugiere que la versión B está funcionando mejor en términos de gasto promedio entre los usuarios que realizan una conversión.
 
 
+<p align="center">
+  <img src="screenshots/gasto_promedio_A_vs_B.png" width="800">
+</p>
 
 
 
